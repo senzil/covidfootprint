@@ -1,0 +1,39 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title class="jura small">C19-Footprint</ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content scrollY="true">
+  <ion-grid class="background">
+    <ion-row>
+      <ion-col>
+        <ion-text>{{'PAGES.RANKING.MEJORES' | translate}}</ion-text>
+        <div class="scrollable">
+          <ion-list *ngFor="let item of ranking.best" >
+            <ion-item>
+              <ion-note color="success" slot="start">{{ item.avgFootprint | number:'1.2-2' }}</ion-note>
+              <ion-label>{{ item.locationName }}</ion-label>
+            </ion-item>
+          </ion-list>
+        </div>
+      </ion-col>
+    </ion-row>
+    <ion-row>
+      <ion-col>
+        <ion-text>{{'PAGES.RANKING.PEORES' | translate}}</ion-text>
+        <div class="scrollable">
+          <ion-list *ngFor="let item of ranking.worst" >
+            <ion-item>
+              <ion-note  color="danger" slot="start">{{ item.avgFootprint | number:'1.2-2' }}</ion-note>
+              <ion-label>{{ item.locationName }}</ion-label>
+            </ion-item>
+          </ion-list>
+        </div>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>
+<ion-footer class="customfooter">
+  <ion-toolbar class="customfooter">
+  </ion-toolbar>
+</ion-footer>

@@ -1,0 +1,46 @@
+<ion-content>
+  <ion-grid class="background">
+    <ion-row>
+      <ion-col>
+        <ion-card mode="ios" >
+          <ion-card-header>            
+            <ion-card-title class="text-center jura">C19 Footprint</ion-card-title>
+            <ion-card-subtitle class="text-center subtitulo">{{ 'PAGES.ABOUT.SUBTITLE' | translate }}</ion-card-subtitle>
+          </ion-card-header>
+          
+          <ion-card-content class="no-pdd-top">
+          <!-- <div joyrideStep="init2" title="{{'COMPONENTS.TOUR.TITLE_INIT2' | translate}}" text="{{'COMPONENTS.TOUR.TEXT_INIT2' | translate}}" > -->
+            <div>
+              <div class="mrg-top-10"></div>
+              <ion-card-subtitle class="text-center explanation">{{ 'PAGES.ABOUT.OBJETIVO' | translate }}</ion-card-subtitle>
+              <div class="mrg-top-10"></div>
+              <ion-card-subtitle class="text-center explanation">{{ 'PAGES.ABOUT.EXPLICACION' | translate }}</ion-card-subtitle>
+              <div class="mrg-top-10"></div>
+              <ion-card-subtitle class="text-center explanation">{{ 'PAGES.ABOUT.DESCARGO' | translate }}</ion-card-subtitle>
+              <div class="mrg-top-20"></div>
+            </div>
+            <!--  <div joyrideStep="init4" title="{{'COMPONENTS.TOUR.TITLE_INIT4' | translate}}" text="{{'COMPONENTS.TOUR.TEXT_INIT4' | translate}}"> -->        <div>
+                <ion-button mode="ios" expand="block" (click)="FacebookAuth()">
+                <ion-icon name="logo-facebook"></ion-icon>
+                &nbsp;{{ 'PAGES.LOGIN.MESSAGE_FACEBOOK' | translate }}
+              </ion-button>
+              <ion-button mode="ios" expand="block" (click)="GoogleAuth()">
+                <ion-icon name="logo-google"></ion-icon>
+                &nbsp;{{ 'PAGES.LOGIN.MESSAGE_GOOGLE' | translate }}
+              </ion-button>
+              <ion-button mode="ios" expand="block" (click)="TwitterAuth()">
+                <ion-icon name="logo-twitter"></ion-icon>
+                &nbsp;{{ 'PAGES.LOGIN.MESSAGE_TWITTER' | translate }}
+              </ion-button>
+            </div>
+            <div class="mrg-top-10"></div>
+<!--             <ion-card-subtitle class="text-center" joyrideStep="init3" title="{{'COMPONENTS.TOUR.TITLE_INIT3' | translate}}" text="{{'COMPONENTS.TOUR.TEXT_INIT3' | translate}}">{{ 'PAGES.LOGIN.PRIVACIDAD' | translate }}</ion-card-subtitle> -->            <ion-card-subtitle class="text-center">{{ 'PAGES.LOGIN.PRIVACIDAD' | translate }}</ion-card-subtitle>
+
+          </ion-card-content>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>
+
+

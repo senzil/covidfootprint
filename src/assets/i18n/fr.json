@@ -1,0 +1,125 @@
+{
+  "PAGES": {
+    "ABOUT": {
+      "SUBTITLE": "Connaissez votre empreinte virale",
+      "OBJETIVO": "COVID 19 Footprint vous permet de calculer votre empreinte virale. L'empreinte virale est la «marque» qu'elle laisse derrière elle en effectuant des actions qui peuvent propager le virus. Plus la valeur est basse, meilleure est votre empreinte.",
+      "EXPLICACION": "Il ne vous faudra pas une minute, à travers une série de questions, pour ajouter ou soustraire des points.",
+      "DESCARGO": "Nous ne sommes pas et ne prétendons pas être des spécialistes de la santé. Nous essayons seulement de sensibiliser en suivant le protocole contre Covid-19. Les résultats fournis par ce site Web sont purement symboliques.",
+      "AUTORIA": "Application Web créée par Senzil."
+    },
+    "AGE": {
+      "MESSAGE": "ENTREZ L'ANNÉE DE VOTRE NAISSANCE",
+      "CONTINUAR": "continuer"
+    },
+    "HOME": {
+      "TITLE": "Votre empreinte C19 est",
+      "SUGERENCIA": "Si possible, essayez de réduire votre empreinte autant que possible.",
+      "FELICITACIONES": "Excellent!, Votre empreinte est minime!",
+      "INVITACION_MANANA": "Demain, vous pourrez à nouveau calculer votre empreinte",
+      "INVITACION_HOY": "Vous n'avez toujours pas calculé votre empreinte",
+      "CALCULA": "Calculez votre empreinte aujourd'hui"
+    },
+    "LOCATION": {
+      "MESSAGE": "TROUVEZ ET SÉLECTIONNEZ LE QUARTIER O WH VOUS VIVEZ",
+      "CONTINUAR": "continuer"
+    },
+    "LOGIN": {
+      "MESSAGE_FACEBOOK": "Connectez-vous avec Facebook",
+      "MESSAGE_GOOGLE": "Connectez-vous avec Google",
+      "MESSAGE_TWITTER": "Connectez-vous avec Twitter",
+      "PRIVACIDAD": "Nous pensons que la confidentialité est quelque chose de fondamental, c'est pourquoi ce site ne stocke pas de données personnelles qui vous permettent de connaître votre véritable identité, mais plutôt celles qui sont minimales pour identifier votre session utilisateur. (connexion)"
+    },
+    "MAP": {
+      "RANGO": "Filtre de plage moyenne d'empreinte"
+    },
+    "RANKING": {
+      "MEJORES": "QUARTIERS À EMPREINTE INFÉRIEURE",
+      "PEORES": "QUARTIERS À EMPREINTE PLUS ÉLEVÉE"
+    },
+    "SOURCES": {
+      "HASHTAG": "#Nous sommes responsables",
+      "SUBTITLE": "Voici quelques sources officielles où vous pouvez trouver des informations sur COVID-19.",
+      "WHO": "https://www.who.int",
+      "ADVICE": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+      "MYTH-BUSTERS": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+      "MASCARILLA": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks",
+      "Q&A": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses",
+      "Q&A2": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-on-infection-prevention-and-control-for-health-care-workers-caring-for-patients-with-suspected-or-confirmed-2019-ncov",
+      "MAYO": "https://www.mayoclinic.org/es-es/diseases-conditions/coronavirus/symptoms-causes/syc-20479963",
+      "MAYO2": "https://www.mayoclinic.org/es-es/diseases-conditions/coronavirus/diagnosis-treatment/drc-20479976"
+    },
+    "WIZARD": {
+      "FIEBRE": "Avez-vous de la fièvre?",
+      "TOS": "Avez-vous une toux sèche?",
+      "RESPIRACION": "Avez-vous des difficultés respiratoires?",
+      "DIAGNOSTICO": "Avez-vous reçu un diagnostic de Covid-19?",
+      "CONTACTO": "Avez-vous été en contact avec quelqu'un qui était dans une zone à risque ou avec des symptômes?",
+      "LAVADO": "Lavez-vous souvent les mains?",
+      "TOSER": "Si vous avez toussé ou éternué, l'avez-vous fait sur le pli de votre coude ou sur un mouchoir jetable?",
+      "CARA": "Mettez-vous souvent vos mains sur votre visage?",
+      "VENTILAR": "Avez-vous aéré votre maison?",
+      "TELEFONO": "Avez-vous désinfecté votre téléphone portable et votre clavier?",
+      "INTERACCION": "Avez-vous interagi avec des gens en dehors de ceux qui vivent avec vous?",
+      "COMPRAS": "Organisez-vous vos achats pour sortir une fois tous les plusieurs jours?",
+      "MERCADERIAS": "Désinfectez-vous les conteneurs de marchandises qui entrent dans votre maison?",
+      "LLAVES": "Désinfectez-vous vos clés et loquets à votre retour de l'étranger?",
+      "ZAPATILLAS": "Lavez-vous vos chaussures lorsque vous entrez de l'extérieur, par exemple sur un chiffon imbibé de désinfectant?",
+      "ANIMALES": "Si vous avez des animaux, les empêchez-vous de s'appuyer sur les surfaces extérieures et nettoyez-vous les pattes en entrant?",
+      "ANCIANOS": "Si vous aidez une personne du groupe à risque, essayez-vous d'éviter tout contact physique?",
+      "TRASLADO": "Si vous sortiez, êtes-vous allé dans un autre quartier?",
+      "DIARREA": "Tu as de la diarrhée?",
+      "OLFATO": "Avez-vous remarqué une perte d'odeur?",
+      "MASCARILLA": "Portez-vous un masque, une mentonnière ou un couvre-bouche, surtout si vous interagissez avec d'autres personnes ou avez des symptômes?",
+      "DISTANCIA": "Gardez-vous une distance de 2 mètres / 6 pieds avec les autres lorsque vous sortez?",
+      "YES": "Ouais",
+      "NO": "Non"
+    }
+  },
+  "COMPONENTS": {
+    "APPUPDATE": {
+      "HEADER": "MISE À JOUR DISPONIBLE",
+      "MESSAGE": "Une nouvelle version de l'application sera chargée"
+    },
+    "LOGIN": {
+      "ERROR": "Une erreur s'est produite lors de l'authentification, veuillez réessayer plus tard.",
+      "VERIFYING": "Vérification de la session ...",
+      "CLOSING": "Déconnexion ..."
+    },
+    "MENU": {
+      "DARKMODE": "Basculer le thème sombre",
+      "SELECTLANGUAGE": "Sélectionnez la langue",
+      "HOME": "Mon empreinte",
+      "MAP": "La carte",
+      "ABOUT": "Au-dessus de l'application",
+      "RANKING": "Classement",
+      "OPENDATA": "Données ouvertes",
+      "SOURCES": "Informations officielles",
+      "LOGIN": "S'identifier",
+      "LOGOUT": "Fermer la session"
+    },
+    "SHARE": {
+      "FOOTPRINT": "Mon empreinte virale aujourd'hui est"
+    },
+    "TOUR": {
+      "PREVIUS": "Précédente",
+      "NEXT": "Suivant",
+      "DONE": "Terminer",
+      "TEXT_INIT1": "Ici, vous pouvez sélectionner votre langue préférée",
+      "TITLE_INIT2": "À propos de l'application",
+      "TEXT_INIT2": "Nous vous invitons à calculer votre empreinte virale",
+      "TITLE_INIT3": "confidentialité",
+      "TEXT_INIT3": "Bien que nous ne stockions pas de données pouvant vous identifier, vous devez accepter notre politique de confidentialité",
+      "TITLE_INIT4": "Revenu",
+      "TEXT_INIT4": "Connectez-vous avec le compte que vous préférez pour vous identifier"
+    }
+  },
+  "COMMONS": {
+    "CARGANDO": "Chargement ...",
+    "ALERTA": "Alerte",
+    "ERROR": "Erreur",
+    "ACEPTAR": "Accepter",
+    "CANCELAR": "Annuler",
+    "YES": "Ouais",
+    "NO": "Non"
+  }
+}

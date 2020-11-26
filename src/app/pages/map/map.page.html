@@ -1,0 +1,10 @@
+<ion-content>
+  <div id="map" class="show-map"></div>
+  <ion-card>
+    <ion-label color="primary">{{'PAGES.MAP.RANGO' | translate}}</ion-label>
+    <ion-range (ionChange)="setStyleAndFilter()" [(ngModel)]="filter" [min]="minmax.min" [max]="minmax.max" step="1" ticks="true" snaps="true" pin="true" dual-knobs="true">
+      <ion-icon slot="start" name="remove-circle" color="success"></ion-icon>
+      <ion-icon size="large" slot="end" name="add-circle" color="danger"></ion-icon>
+    </ion-range>
+  </ion-card>
+</ion-content>

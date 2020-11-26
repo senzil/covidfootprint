@@ -1,0 +1,33 @@
+<ion-content class="">
+  <ion-grid class=" background">
+    <ion-row>
+      <ion-col>
+        <ion-card mode="ios" >
+          <ion-card-header>
+            <ion-card-subtitle class="text-center subtitulo">{{ 'PAGES.LOCATION.MESSAGE' | translate}}</ion-card-subtitle>
+          </ion-card-header>
+          
+          <ion-card-content class="no-pdd-top">
+
+              <ion-toolbar>
+        <ion-searchbar [(ngModel)]="query" value="{{query}}" placeholder="Buscar"  (ionInput)="searchPlace()"></ion-searchbar>
+    </ion-toolbar>
+  <ion-spinner *ngIf="buscando"></ion-spinner>
+    <ion-list>
+        <ion-item *ngFor="let place of places" (click)="selectPlace(place)">{{place.description}}</ion-item>
+    </ion-list>
+                <div id="map"></div>
+              
+
+            <div class="mrg-top-20"></div>
+            <ion-button mode="ios" expand="block" [disabled]="continueDisabled" (click)="continue()">
+              <ion-icon name="arrow-dropright"></ion-icon>
+              &nbsp;{{ 'PAGES.LOCATION.CONTINUAR' | translate}}
+            </ion-button>
+            
+          </ion-card-content>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>

@@ -1,0 +1,125 @@
+{
+  "PAGES": {
+    "ABOUT": {
+      "SUBTITLE": "Kennen Sie Ihren viralen Fußabdruck",
+      "OBJETIVO": "Mit COVID 19 Footprint können Sie Ihren viralen Footprint berechnen. Der virale Fußabdruck ist das \"Zeichen\", das er hinterlässt, wenn er Aktionen ausführt, die das Virus verbreiten können. Je niedriger der Wert, desto besser ist Ihr Platzbedarf.",
+      "EXPLICACION": "Durch eine Reihe von Fragen brauchen Sie keine Minute, um Punkte zu addieren oder zu subtrahieren.",
+      "DESCARGO": "Wir sind keine Gesundheitsspezialisten und geben dies auch nicht vor. Wir versuchen nur, das Bewusstsein zu schärfen, indem wir das Protokoll gegen Covid-19 befolgen. Die Ergebnisse dieser Website sind lediglich symbolisch.",
+      "AUTORIA": "Web-App von Senzil erstellt."
+    },
+    "AGE": {
+      "MESSAGE": "Betreten Sie das Jahr, in dem Sie geboren wurden",
+      "CONTINUAR": "Weiter"
+    },
+    "HOME": {
+      "TITLE": "Ihr C19-Footprint ist",
+      "SUGERENCIA": "Versuchen Sie nach Möglichkeit, Ihren Fußabdruck so weit wie möglich zu reduzieren.",
+      "FELICITACIONES": "Ausgezeichnet! Ihr Fußabdruck ist minimal!",
+      "INVITACION_MANANA": "Morgen können Sie Ihren Footprint erneut berechnen",
+      "INVITACION_HOY": "Sie haben Ihren Footprint noch nicht berechnet",
+      "CALCULA": "Berechnen Sie noch heute Ihren Fußabdruck"
+    },
+    "LOCATION": {
+      "MESSAGE": "FINDEN UND WÄHLEN SIE DIE NACHBARSCHAFT, IN DER SIE LEBEN",
+      "CONTINUAR": "Weiter"
+    },
+    "LOGIN": {
+      "MESSAGE_FACEBOOK": "Loggen Sie sich mit Facebook ein",
+      "MESSAGE_GOOGLE": "Melden Sie sich mit Google an",
+      "MESSAGE_TWITTER": "Loggen Sie sich mit Twitter ein",
+      "PRIVACIDAD": "Wir glauben, dass Datenschutz etwas Grundlegendes ist, weshalb auf dieser Website keine persönlichen Daten gespeichert werden, mit denen Sie Ihre wahre Identität erkennen können, sondern solche, die für die Identifizierung Ihrer Benutzersitzung minimal sind. (Login)"
+    },
+    "MAP": {
+      "RANGO": "Filter für den durchschnittlichen Footprint-Bereich"
+    },
+    "RANKING": {
+      "MEJORES": "NACHBARSCHAFTEN MIT UNTEREM FUSSDRUCK",
+      "PEORES": "NACHBARSCHAFTEN MIT HÖHEREM FUSSDRUCK"
+    },
+    "SOURCES": {
+      "HASHTAG": "#Wir sind verantwortlich",
+      "SUBTITLE": "Dies sind einige offizielle Quellen, in denen Sie Informationen zu COVID-19 finden.",
+      "WHO": "https://www.who.int",
+      "ADVICE": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+      "MYTH-BUSTERS": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+      "MASCARILLA": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks",
+      "Q&A": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses",
+      "Q&A2": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-on-infection-prevention-and-control-for-health-care-workers-caring-for-patients-with-suspected-or-confirmed-2019-ncov",
+      "MAYO": "https://www.mayoclinic.org/es-es/diseases-conditions/coronavirus/symptoms-causes/syc-20479963",
+      "MAYO2": "https://www.mayoclinic.org/es-es/diseases-conditions/coronavirus/diagnosis-treatment/drc-20479976"
+    },
+    "WIZARD": {
+      "FIEBRE": "Hast du fieber",
+      "TOS": "Hast du einen trockenen Husten?",
+      "RESPIRACION": "Haben Sie Atembeschwerden?",
+      "DIAGNOSTICO": "Wurde bei Ihnen Covid-19 diagnostiziert?",
+      "CONTACTO": "Waren Sie in Kontakt mit jemandem, der sich in einer Risikozone befand oder Symptome hatte?",
+      "LAVADO": "Waschen Sie Ihre Hände häufig?",
+      "TOSER": "Wenn Sie gehustet oder geniest haben, haben Sie es an der Ellbogenfalte oder an einem Einweggewebe getan?",
+      "CARA": "Legen Sie oft Ihre Hände vor Ihr Gesicht?",
+      "VENTILAR": "Hast du dein Haus belüftet?",
+      "TELEFONO": "Haben Sie Ihr Handy und Ihre Tastatur desinfiziert?",
+      "INTERACCION": "Haben Sie mit Menschen außerhalb derer interagiert, die mit Ihnen leben?",
+      "COMPRAS": "Organisieren Sie Ihre Einkäufe so, dass sie alle paar Tage ausgehen?",
+      "MERCADERIAS": "Desinfizieren Sie die Warenbehälter, die in Ihr Haus gelangen?",
+      "LLAVES": "Desinfizieren Sie Ihre Schlüssel und Riegel, wenn Sie aus dem Ausland zurückkehren?",
+      "ZAPATILLAS": "Reinigen Sie Ihre Schuhe, wenn Sie von außen eintreten, beispielsweise auf einem mit Desinfektionsmittel getränkten Tuch?",
+      "ANIMALES": "Wenn Sie Tiere haben, verhindern Sie, dass sie sich auf Außenflächen stützen und ihre Pfoten beim Betreten reinigen?",
+      "ANCIANOS": "Wenn Sie einer Person in der Risikogruppe helfen, versuchen Sie, jeglichen physischen Kontakt zu vermeiden?",
+      "TRASLADO": "Wenn Sie ausgegangen sind, sind Sie in eine andere Nachbarschaft gegangen?",
+      "DIARREA": "Sie haben Durchfall?",
+      "OLFATO": "Haben Sie einen Geruchsverlust bemerkt?",
+      "MASCARILLA": "Tragen Sie eine Maske, einen Kinnschutz oder eine Mundbedeckung, insbesondere wenn Sie mit anderen Menschen interagieren oder Symptome haben?",
+      "DISTANCIA": "Halten Sie beim Ausgehen einen Abstand von 2 Metern zu anderen Personen ein?",
+      "YES": "Ja",
+      "NO": "Nein"
+    }
+  },
+  "COMPONENTS": {
+    "APPUPDATE": {
+      "HEADER": "UPDATE VERFÜGBAR",
+      "MESSAGE": "Eine neue Version der App wird geladen"
+    },
+    "LOGIN": {
+      "ERROR": "Bei der Authentifizierung ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.",
+      "VERIFYING": "Sitzung überprüfen ...",
+      "CLOSING": "Abmelden ..."
+    },
+    "MENU": {
+      "DARKMODE": "Dunkles Thema umschalten",
+      "SELECTLANGUAGE": "Wählen Sie Sprache",
+      "HOME": "Mein Fußabdruck",
+      "MAP": "Karte",
+      "ABOUT": "Über der App",
+      "RANKING": "Rangfolge",
+      "OPENDATA": "Daten öffnen",
+      "SOURCES": "Offizielle Informationen",
+      "LOGIN": "Anmeldung",
+      "LOGOUT": "Sitzung schließen"
+    },
+    "SHARE": {
+      "FOOTPRINT": "Mein viraler Fußabdruck ist heute"
+    },
+    "TOUR": {
+      "PREVIUS": "Zurück",
+      "NEXT": "Weiter",
+      "DONE": "Beenden Sie",
+      "TEXT_INIT1": "Hier können Sie Ihre bevorzugte Sprache auswählen",
+      "TITLE_INIT2": "Über die Anwendung",
+      "TEXT_INIT2": "Wir laden Sie ein, Ihren viralen Fußabdruck zu berechnen",
+      "TITLE_INIT3": "Datenschutz",
+      "TEXT_INIT3": "Obwohl wir keine Daten speichern, die Sie identifizieren können, müssen Sie unseren Datenschutzbestimmungen zustimmen",
+      "TITLE_INIT4": "Einkommen",
+      "TEXT_INIT4": "Melden Sie sich mit dem Konto an, mit dem Sie sich identifizieren möchten"
+    }
+  },
+  "COMMONS": {
+    "CARGANDO": "Laden ...",
+    "ALERTA": "Alarm",
+    "ERROR": "Error",
+    "ACEPTAR": "Akzeptiere",
+    "CANCELAR": "Abbrechen",
+    "YES": "Ja",
+    "NO": "Nein"
+  }
+}

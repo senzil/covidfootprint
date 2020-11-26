@@ -1,0 +1,116 @@
+{
+  "PAGES": {
+    "ABOUT": {
+      "SUBTITLE": "Conoce tu huella viral",
+      "OBJETIVO": "COVID 19 Footprint te permite calcular tu huella viral. La huella viral es la \"marca\" que deja al realizar acciones que pueden propagar el virus. Cuanto más bajo el valor, mejor, tu huella será más pequeña.",
+      "EXPLICACION": "No le llevará ni un minuto, mediante una serie de preguntas, suma o resta puntos.",
+      "DESCARGO": "No somos ni pretendemos ser especialistas en salud. Solo tratamos de generar conciencia en el seguimiento del protocolo contra el Covid-19. Los resultados que entrega este sitio web son meramente simbólicos.",
+      "AUTORIA": "App web creada por sencillo."
+    },
+    "AGE": {
+      "MESSAGE": "INGRESE EL AÑO EN QUE NACIÓ",
+      "CONTINUAR": "Continuar"
+    },
+    "HOME": {
+      "TITLE": "Su Huella C19 es",
+      "SUGERENCIA": "De ser posible trata de disminuir tu huella lo más posible.",
+      "FELICITACIONES": "Excelente!, tu huella es la mínima!",
+      "INVITACION_MANANA": "Mañana vas a poder calcular nuevamente tu huella",
+      "INVITACION_HOY": "Todavía no calculaste tu huella",
+      "CALCULA": "Calcula tu huella de hoy"
+    },
+    "LOCATION": {
+      "MESSAGE": "BUSQUE Y SELECCIONE EL BARRIO DONDE VIVE",
+      "CONTINUAR": "Continuar"
+    },
+    "LOGIN": {
+      "MESSAGE_FACEBOOK": "Ingresar con Facebook",
+      "MESSAGE_GOOGLE": "Ingresar con Google",
+      "MESSAGE_TWITTER": "Ingresar con Twitter",
+      "PRIVACIDAD": "Creemos que la privacidad es algo fundamental por lo cual este sitio no almacena datos personales que permitan conocer tu identidad real sino aquellos mínimos para la identificación de tu sesión de usuario. (login)"
+    },
+    "MAP": {
+      "RANGO": "Filtro de rango de promedio de huella"
+    },
+    "RANKING": {
+      "MEJORES": "BARRIOS CON MENOR HUELLA",
+      "PEORES": "BARRIOS CON MAYOR HUELLA"
+    },
+    "SOURCES": {
+      "HASHTAG": "#SomosResponables",
+      "SUBTITLE": "Estas son algunas fuentes oficiales donde podrá encontrar información de COVID-19.",
+      "WHO": "https://www.who.int",
+      "ADVICE": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+      "MYTH-BUSTERS": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+      "MASCARILLA": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks",
+      "Q&A": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses",
+      "Q&A2": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-on-infection-prevention-and-control-for-health-care-workers-caring-for-patients-with-suspected-or-confirmed-2019-ncov"
+    },
+    "WIZARD": {
+      "FIEBRE": "¿Tienes fiebre?",
+      "TOS": "¿Tienes tos seca?",
+      "RESPIRACION": "¿Tienes alguna dificultad respiratoria?",
+      "DIAGNOSTICO": "¿Te diagnosticaron Covid-19?",
+      "CONTACTO": "¿Estuviste en contacto con alguien que haya estado en una zona de riesgo o con síntomas?",
+      "LAVADO": "¿Te lava las manos frecuentemente?",
+      "TOSER": "¿Si tosiste o estornudaste, lo hiciste sobre el pliegue de tu codo o sobre un pañuelo descartable?",
+      "CARA": "¿Te lleva las manos a la cara con frecuencia?",
+      "VENTILAR": "¿Ventilaste tu casa?",
+      "TELEFONO": "¿Desinfectaste tu teléfono móvil y tu teclado?",
+      "INTERACCION": "¿Interactuaste con personas fuera de los que viven contigo?",
+      "COMPRAS": "¿Organizas tus compras para salir una vez cada varios días?",
+      "MERCADERIAS": "¿Desinfectas los envases de mercadería que ingresan a tu hogar?",
+      "LLAVES": "¿Desinfectas las llaves y picaportes cuando vuelves del exterior?",
+      "ZAPATILLAS": "Limpias tu calzado al ingresas del exterior, por ejemplo sobre un trapo embebido con desinfectante?",
+      "ANIMALES": "¿Si tiene animales, evitas que se apoye en superficies en el exterior y limpias sus patas al ingresar?",
+      "ANCIANOS": "¿Si ayudas a una persona del grupo de riesgo, procuras evitar todo contacto físico?",
+      "YES": "Sí",
+      "NO": "No"
+    }
+  },
+  "COMPONENTS": {
+    "APPUPDATE": {
+      "HEADER": "ACTUALIZACIÓN DISPONIBLE",
+      "MESSAGE": "Se va a cargar una nueva versión de la App"
+    },
+    "LOGIN": {
+      "ERROR": "Hubo un error con la autenticación, por favor intente de nuevo más tarde.",
+      "VERIFYING": "Verificando sesión...",
+      "CLOSING": "Cerrando sesión..."
+    },
+    "MENU": {
+      "SELECTLANGUAGE": "Seleccionar Idioma",
+      "HOME": "Mi Huella",
+      "MAP": "Mapa",
+      "ABOUT": "Sobre la aplicación",
+      "RANKING": "Clasificación",
+      "OPENDATA": "Información abierta",
+      "SOURCES": "Información Oficial",
+      "LOGOUT": "Cerrar Sesión"
+    },
+    "SHARE": {
+      "FOOTPRINT": "Mi huella viral de hoy es"
+    },
+    "TOUR": {
+      "PREVIUS": "Anterior",
+      "NEXT": "Siguiente",
+      "DONE": "Finalizar",
+      "TEXT_INIT1": "Aquí puede seleccionar el idioma que prefiera",
+      "TITLE_INIT2": "Sobre la aplicación",
+      "TEXT_INIT2": "Te invitamos a calcular tu huella viral",
+      "TITLE_INIT3": "Privacidad",
+      "TEXT_INIT3": "Si bien no guardamos datos que puedan identificarte, debes estar de acuerdo con nuestra política de privacidad",
+      "TITLE_INIT4": "Ingreso",
+      "TEXT_INIT4": "Ingresa con la cuenta que prefieras para identificarte"
+    }
+  },
+  "COMMONS": {
+    "CARGANDO": "Cargando...",
+    "ALERTA": "Alerta",
+    "ERROR": "Error",
+    "ACEPTAR": "Aceptar",
+    "CANCELAR": "Cancelar",
+    "YES": "Sí",
+    "NO": "No"
+  }
+}

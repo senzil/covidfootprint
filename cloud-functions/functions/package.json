@@ -1,0 +1,33 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase serve --only functions",
+    "shell": "firebase functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "engines": {
+    "node": "8"
+  },
+  "dependencies": {
+    "@google-cloud/bigquery": "^4.1.8",
+    "archiver": "^3.1.1",
+    "archiver-promise": "^1.0.0",
+    "child-process-promise": "^2.2.1",
+    "circle-to-polygon": "^2.0.1",
+    "firebase": "^7.2.3",
+    "firebase-admin": "^8.0.0",
+    "firebase-functions": "^3.1.0",
+    "firestore-export-import": "^0.2.6",
+    "geojson": "^0.5.0",
+    "leaflet": "^1.6.0",
+    "lodash": "^4.17.15",
+    "uuid": "^7.0.2"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^0.1.6"
+  },
+  "private": true
+}

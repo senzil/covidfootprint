@@ -1,0 +1,125 @@
+{
+  "PAGES": {
+    "ABOUT": {
+      "SUBTITLE": "اعرف بصمتك الفيروسية",
+      "OBJETIVO": "يسمح لك COVID 19 Footprint بحساب بصمتك الفيروسية. البصمة الفيروسية هي \"العلامة\" التي تتركها من خلال تنفيذ الإجراءات التي يمكن أن تنشر الفيروس. كلما كانت القيمة أقل ، كلما كانت بصمتك أصغر.",
+      "EXPLICACION": "لن يستغرق الأمر دقيقة واحدة من خلال سلسلة من الأسئلة لإضافة أو طرح النقاط.",
+      "DESCARGO": "نحن لسنا ولا ندعي أننا متخصصون في الصحة. نحن نحاول فقط رفع مستوى الوعي باتباع بروتوكول ضد Covid-19. النتائج التي يقدمها هذا الموقع رمزية فقط.",
+      "AUTORIA": "تطبيق ويب تم إنشاؤه بواسطة Senzil."
+    },
+    "AGE": {
+      "MESSAGE": "ادخل السنة التي ولدت فيها",
+      "CONTINUAR": "استمر"
+    },
+    "HOME": {
+      "TITLE": "البصمة C19 الخاصة بك",
+      "SUGERENCIA": "حاول تقليل البصمة قدر الإمكان قدر الإمكان.",
+      "FELICITACIONES": "ممتاز! ، بصمتك ضئيلة!",
+      "INVITACION_MANANA": "ستتمكن غدًا من حساب بصمتك مرة أخرى",
+      "INVITACION_HOY": "ما زلت لم تحسب بصمتك",
+      "CALCULA": "احسب بصمتك اليوم"
+    },
+    "LOCATION": {
+      "MESSAGE": "ابحث عن وحدد الحي الذي تعيش فيه",
+      "CONTINUAR": "استمر"
+    },
+    "LOGIN": {
+      "MESSAGE_FACEBOOK": "تسجيل الدخول مع الفيسبوك",
+      "MESSAGE_GOOGLE": "تسجيل الدخول مع جوجل",
+      "MESSAGE_TWITTER": "تسجيل الدخول باستخدام تويتر",
+      "PRIVACIDAD": "نحن نعتقد أن الخصوصية شيء أساسي ، ولهذا السبب لا يقوم هذا الموقع بتخزين البيانات الشخصية التي تسمح لك بمعرفة هويتك الحقيقية ، ولكن تلك التي هي الحد الأدنى لتحديد جلسة المستخدم الخاصة بك. (تسجيل الدخول)"
+    },
+    "MAP": {
+      "RANGO": "مرشح نطاق متوسط البصمة"
+    },
+    "RANKING": {
+      "MEJORES": "جوار ذات بصمة أقل",
+      "PEORES": "جوار ذات بصمة عالية"
+    },
+    "SOURCES": {
+      "HASHTAG": "# نحن مسؤولون",
+      "SUBTITLE": "فيما يلي بعض المصادر الرسمية حيث يمكنك العثور على معلومات حول COVID-19.",
+      "WHO": "https://www.who.int",
+      "ADVICE": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+      "MYTH-BUSTERS": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+      "MASCARILLA": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks",
+      "Q&A": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses",
+      "Q&A2": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-on-infection-prevention-and-control-for-health-care-workers-caring-for-patients-with-suspected-or-confirmed-2019-ncov",
+      "MAYO": "https://www.mayoclinic.org/es-es/diseases-conditions/coronavirus/symptoms-causes/syc-20479963",
+      "MAYO2": "https://www.mayoclinic.org/es-es/diseases-conditions/coronavirus/diagnosis-treatment/drc-20479976"
+    },
+    "WIZARD": {
+      "FIEBRE": "هل تعانين من الحمى؟",
+      "TOS": "هل لديك سعال جاف؟",
+      "RESPIRACION": "هل لديك أي صعوبات في التنفس؟",
+      "DIAGNOSTICO": "هل تم تشخيصك بـ Covid-19؟",
+      "CONTACTO": "هل كنت على اتصال بشخص كان في منطقة خطر أو مع أعراض؟",
+      "LAVADO": "هل تغسل يديك بشكل متكرر؟",
+      "TOSER": "إذا قمت بالسعال أو العطس ، فهل فعلت ذلك على ثنية مرفقك أو على أنسجة يمكن التخلص منها؟",
+      "CARA": "هل غالبا ما تضع يديك على وجهك؟",
+      "VENTILAR": "هل قمت بتهوية منزلك؟",
+      "TELEFONO": "هل قمت بتطهير هاتفك المحمول ولوحة المفاتيح؟",
+      "INTERACCION": "هل تفاعلت مع أشخاص من خارج أولئك الذين يعيشون معك؟",
+      "COMPRAS": "هل تنظم مشترياتك للخروج مرة واحدة كل عدة أيام؟",
+      "MERCADERIAS": "هل تقوم بتطهير حاويات البضائع التي تدخل منزلك؟",
+      "LLAVES": "هل تقوم بتطهير المفاتيح والمزالج الخاصة بك عندما تعود من الخارج؟",
+      "ZAPATILLAS": "هل تنظف حذائك عندما تدخل من الخارج ، على سبيل المثال بقطعة قماش مبللة بمطهر؟",
+      "ANIMALES": "إذا كان لديك حيوانات ، هل تمنعهم من الاتكاء على الأسطح الخارجية وتنظيف الكفوف عند الدخول؟",
+      "ANCIANOS": "إذا ساعدت شخصًا في مجموعة المخاطر ، فهل تحاول تجنب كل الاتصال الجسدي؟",
+      "TRASLADO": "إذا خرجت ، هل ذهبت إلى حي آخر؟",
+      "DIARREA": "هل لديك إسهال؟",
+      "OLFATO": "هل لاحظت فقدان الرائحة؟",
+      "MASCARILLA": "هل ترتدي قناعًا أو حارس ذقن أو غطاء فم ، خاصة إذا كنت تتفاعل مع أشخاص آخرين أو لديك أي أعراض؟",
+      "DISTANCIA": "هل تبقي على مسافة مترين / 6 أقدام مع الآخرين عند الخروج؟",
+      "YES": "نعم",
+      "NO": "لا"
+    }
+  },
+  "COMPONENTS": {
+    "APPUPDATE": {
+      "HEADER": "تحديث متاح",
+      "MESSAGE": "سيتم تحميل نسخة جديدة من التطبيق"
+    },
+    "LOGIN": {
+      "ERROR": "حدث خطأ في المصادقة ، يرجى المحاولة مرة أخرى في وقت لاحق.",
+      "VERIFYING": "جاري التحقق ...",
+      "CLOSING": "تسجيل الخروج ..."
+    },
+    "MENU": {
+      "DARKMODE": "تبديل المظهر الداكن",
+      "SELECTLANGUAGE": "حدد اللغة",
+      "HOME": "قدمي",
+      "MAP": "الخريطة",
+      "ABOUT": "فوق التطبيق",
+      "RANKING": "تصنيف",
+      "OPENDATA": "البيانات المفتوحة",
+      "SOURCES": "معلومات رسمية",
+      "LOGIN": "تسجيل الدخول",
+      "LOGOUT": "إغلاق الجلسة"
+    },
+    "SHARE": {
+      "FOOTPRINT": "بصمتي الفيروسية اليوم هي"
+    },
+    "TOUR": {
+      "PREVIUS": "السابق",
+      "NEXT": "التالي",
+      "DONE": "إنهاء",
+      "TEXT_INIT1": "هنا يمكنك اختيار لغتك المفضلة",
+      "TITLE_INIT2": "عن التطبيق",
+      "TEXT_INIT2": "ندعوك لحساب بصمتك الفيروسية",
+      "TITLE_INIT3": "الخصوصية",
+      "TEXT_INIT3": "على الرغم من أننا لا نخزن البيانات التي يمكن أن تحدد هويتك ، يجب أن توافق على سياسة الخصوصية الخاصة بنا",
+      "TITLE_INIT4": "الدخل",
+      "TEXT_INIT4": "تسجيل الدخول باستخدام الحساب الذي تفضله لتعريف نفسك"
+    }
+  },
+  "COMMONS": {
+    "CARGANDO": "جار التحميل ...",
+    "ALERTA": "تنبيه",
+    "ERROR": "خطأ",
+    "ACEPTAR": "قبول",
+    "CANCELAR": "الإلغاء",
+    "YES": "نعم",
+    "NO": "لا"
+  }
+}

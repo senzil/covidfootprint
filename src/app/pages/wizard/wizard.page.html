@@ -1,0 +1,27 @@
+<ion-content class="">
+  <ion-grid class="background">
+    <ion-row>
+      <ion-col>
+        <ion-card mode="ios" >
+          <ion-card-header>          
+            <ion-card-title class="text-center jura small">{{'PAGES.WIZARD.' + currentQuestion.getQuestion() | translate }}</ion-card-title>
+          </ion-card-header>
+          <ion-card-content class="no-pdd-top">
+
+            <div class="mrg-top-20"></div>
+            <ion-grid>
+              <ion-row class="text-center">
+                <ion-col *ngFor="let item of currentQuestion.getAnswers()"l>
+                  <ion-button size="large" fill="clear" [color]="item.getColor()"  mode="md" (click)="continue(item)">
+                    <ion-icon [color]="item.getColor()" [name]="item.getIcon()"></ion-icon>
+                  </ion-button>
+                </ion-col>
+              </ion-row>
+            </ion-grid>
+           
+          </ion-card-content>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>

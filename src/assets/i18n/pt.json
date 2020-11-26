@@ -1,0 +1,125 @@
+{
+  "PAGES": {
+    "ABOUT": {
+      "SUBTITLE": "Conheça sua pegada viral",
+      "OBJETIVO": "COVID 19 Footprint permite calcular sua pegada viral. A pegada viral é a \"marca\" que deixa para trás executando ações que podem espalhar o vírus. Quanto menor o valor, melhor sua pegada será menor.",
+      "EXPLICACION": "Não demorará um minuto, através de uma série de perguntas, para adicionar ou subtrair pontos.",
+      "DESCARGO": "Não somos e não pretendemos ser especialistas em saúde. Nós apenas tentamos aumentar a conscientização seguindo o protocolo contra o Covid-19. Os resultados fornecidos por este site são meramente simbólicos.",
+      "AUTORIA": "Aplicativo da Web criado pelo Senzil."
+    },
+    "AGE": {
+      "MESSAGE": "ENTRAR NO ANO EM QUE NASCEU",
+      "CONTINUAR": "Continuar"
+    },
+    "HOME": {
+      "TITLE": "Sua pegada C19 é",
+      "SUGERENCIA": "Se possível, tente reduzir sua pegada o máximo possível.",
+      "FELICITACIONES": "Excelente!, Sua pegada é mínima!",
+      "INVITACION_MANANA": "Amanhã você poderá calcular sua pegada novamente",
+      "INVITACION_HOY": "Você ainda não calculou sua pegada",
+      "CALCULA": "Calcule sua pegada hoje"
+    },
+    "LOCATION": {
+      "MESSAGE": "ENCONTRE E SELECIONE O BAIRRO ONDE VOCÊ VIVE",
+      "CONTINUAR": "Continuar"
+    },
+    "LOGIN": {
+      "MESSAGE_FACEBOOK": "Entrar com o Facebook",
+      "MESSAGE_GOOGLE": "Entre com o Google",
+      "MESSAGE_TWITTER": "Entrar com o Twitter",
+      "PRIVACIDAD": "Acreditamos que a privacidade é algo fundamental, e é por isso que este site não armazena dados pessoais que permitem conhecer sua identidade real, mas aqueles que são mínimos para identificar sua sessão de usuário. (login)"
+    },
+    "MAP": {
+      "RANGO": "Filtro de alcance médio da pegada"
+    },
+    "RANKING": {
+      "MEJORES": "BAIRROS COM PEGADA INFERIOR",
+      "PEORES": "VIZINHOS COM PEGADA MAIS ALTA"
+    },
+    "SOURCES": {
+      "HASHTAG": "#We areResponsible",
+      "SUBTITLE": "Estas são algumas fontes oficiais onde você pode encontrar informações sobre o COVID-19.",
+      "WHO": "https://www.who.int",
+      "ADVICE": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+      "MYTH-BUSTERS": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+      "MASCARILLA": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks",
+      "Q&A": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses",
+      "Q&A2": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-on-infection-prevention-and-control-for-health-care-workers-caring-for-patients-with-suspected-or-confirmed-2019-ncov",
+      "MAYO": "https://www.mayoclinic.org/es-es/diseases-conditions/coronavirus/symptoms-causes/syc-20479963",
+      "MAYO2": "https://www.mayoclinic.org/es-es/diseases-conditions/coronavirus/diagnosis-treatment/drc-20479976"
+    },
+    "WIZARD": {
+      "FIEBRE": "Tem febre?",
+      "TOS": "Você tem tosse seca?",
+      "RESPIRACION": "Você tem alguma dificuldade respiratória?",
+      "DIAGNOSTICO": "Você foi diagnosticado com Covid-19?",
+      "CONTACTO": "Você entrou em contato com alguém que esteve em uma zona de risco ou com sintomas?",
+      "LAVADO": "Você lava as mãos com frequência?",
+      "TOSER": "Se você tossiu ou espirrou, fez isso na dobra do cotovelo ou em um lenço de papel descartável?",
+      "CARA": "Você costuma colocar as mãos na cara?",
+      "VENTILAR": "Você ventilou sua casa?",
+      "TELEFONO": "Você desinfetou seu telefone celular e teclado?",
+      "INTERACCION": "Você interagiu com pessoas fora daqueles que moram com você?",
+      "COMPRAS": "Você organiza suas compras para sair uma vez a cada vários dias?",
+      "MERCADERIAS": "Você desinfeta os contêineres de mercadorias que entram em sua casa?",
+      "LLAVES": "Você desinfeta suas chaves e trincos ao retornar do exterior?",
+      "ZAPATILLAS": "Você limpa os sapatos quando entra do lado de fora, por exemplo, em um pano embebido em desinfetante?",
+      "ANIMALES": "Se você tem animais, evita que eles se apoiem em superfícies externas e limpa as patas ao entrar?",
+      "ANCIANOS": "Se você ajuda uma pessoa no grupo de risco, tenta evitar todo contato físico?",
+      "TRASLADO": "Se você saiu, você foi para outro bairro?",
+      "DIARREA": "Você tem diarréia?",
+      "OLFATO": "Você notou perda de olfato?",
+      "MASCARILLA": "Você usa máscara, protetor de queixo ou cobertura da boca, especialmente se você interagir com outras pessoas ou tiver algum sintoma?",
+      "DISTANCIA": "Você mantém uma distância de 2 metros / 6 pés com outras pessoas quando sai?",
+      "YES": "Sim",
+      "NO": "Não"
+    }
+  },
+  "COMPONENTS": {
+    "APPUPDATE": {
+      "HEADER": "ATUALIZAÇÃO DISPONÍVEL",
+      "MESSAGE": "Uma nova versão do aplicativo será carregada"
+    },
+    "LOGIN": {
+      "ERROR": "Ocorreu um erro na autenticação. Tente novamente mais tarde.",
+      "VERIFYING": "Verificando sessão ...",
+      "CLOSING": "A terminar sessão ..."
+    },
+    "MENU": {
+      "DARKMODE": "Alternar tema escuro",
+      "SELECTLANGUAGE": "Selecionar idioma",
+      "HOME": "Minha pegada",
+      "MAP": "Mapa",
+      "ABOUT": "Acima do aplicativo",
+      "RANKING": "Ranking",
+      "OPENDATA": "Dados abertos",
+      "SOURCES": "Informação oficial",
+      "LOGIN": "Conecte-se",
+      "LOGOUT": "Fechar Sessão"
+    },
+    "SHARE": {
+      "FOOTPRINT": "Minha pegada viral hoje é"
+    },
+    "TOUR": {
+      "PREVIUS": "Anterior",
+      "NEXT": "Seguinte",
+      "DONE": "Concluir",
+      "TEXT_INIT1": "Aqui você pode selecionar seu idioma preferido",
+      "TITLE_INIT2": "Sobre a aplicação",
+      "TEXT_INIT2": "Convidamos você a calcular sua pegada viral",
+      "TITLE_INIT3": "Privacidade",
+      "TEXT_INIT3": "Embora não armazenemos dados que possam identificá-lo, você deve concordar com nossa política de privacidade",
+      "TITLE_INIT4": "Renda",
+      "TEXT_INIT4": "Entre com a conta que você prefere se identificar"
+    }
+  },
+  "COMMONS": {
+    "CARGANDO": "Carregando ...",
+    "ALERTA": "Alerta",
+    "ERROR": "Erro",
+    "ACEPTAR": "Aceitar",
+    "CANCELAR": "Cancelar",
+    "YES": "Sim",
+    "NO": "Não"
+  }
+}

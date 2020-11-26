@@ -1,0 +1,38 @@
+<!-- <ion-fab vertical="bottom" horizontal="end" slot="fixed">
+  <ion-fab-button>
+    <ion-icon name="caret-back-circle-outline"></ion-icon>
+  </ion-fab-button>
+  <ion-fab-list side="start">
+    <ion-fab-button><a href="mailto://contact@senzil.com" target="_blank"><ion-icon slot="icon-only" name="at"></ion-icon></a></ion-fab-button>
+    <ion-fab-button><a href="https://www.facebook.com/senzilsrl/" target="_blank"><ion-icon slot="icon-only" name="logo-facebook"></ion-icon></a></ion-fab-button>
+    <ion-fab-button><a href="https://twitter.com/senzil" target="_blank"><ion-icon slot="icon-only" name="logo-twitter"></ion-icon></a></ion-fab-button>
+    <ion-fab-button><a href="https://www.instagram.com/senzilsrl/" target="_blank"><ion-icon slot="icon-only" name="logo-instagram"></ion-icon></a></ion-fab-button>
+    <ion-fab-button><a href="https://www.linkedin.com/company/senzil/" target="_blank"><ion-icon slot="icon-only" name="logo-linkedin"></ion-icon></a></ion-fab-button>
+    <ion-fab-button><a href="https://github.com/senzil/" target="_blank"><ion-icon slot="icon-only" name="logo-github"></ion-icon></a></ion-fab-button>
+  </ion-fab-list>
+</ion-fab> -->
+<ion-fab vertical="bottom" horizontal="end" slot="fixed">
+  <ion-fab-button size="small">
+    <ion-icon name="share-social"></ion-icon>
+  </ion-fab-button>
+  <ion-fab-list side="top">
+    <ion-fab-button><ion-button description="{{getCustomShare()}}" class="sharesize" shareButton="facebook"><ion-icon slot="icon-only" name="logo-facebook"></ion-icon></ion-button></ion-fab-button>
+    <ion-fab-button><ion-button description="{{getCustomShare()}}" class="sharesize" shareButton="twitter"><ion-icon slot="icon-only" name="logo-twitter"></ion-icon></ion-button></ion-fab-button>
+    <ion-fab-button><ion-button description="{{getCustomShare()}}" class="sharesize" shareButton="whatsapp"><ion-icon slot="icon-only" name="logo-whatsapp"></ion-icon></ion-button></ion-fab-button>
+    <ion-fab-button><ion-button description="{{getCustomShare()}}" class="sharesize" shareButton="telegram"><ion-icon slot="icon-only" name="send-sharp"></ion-icon></ion-button></ion-fab-button>
+    <ion-fab-button><ion-button description="{{getCustomShare()}}" class="sharesize" shareButton="reddit"><ion-icon slot="icon-only" name="logo-reddit"></ion-icon></ion-button></ion-fab-button>
+    <ion-fab-button><ion-button description="{{getCustomShare()}}" class="sharesize" shareButton="linkedin"><ion-icon slot="icon-only" name="logo-linkedin"></ion-icon></ion-button></ion-fab-button>
+  </ion-fab-list>
+  <ion-fab-list side="start">
+    <ion-fab-button><ion-button description="{{getCustomShare()}}" class="sharesize" shareButton="pinterest"><ion-icon slot="icon-only" name="logo-pinterest"></ion-icon></ion-button></ion-fab-button>
+    <ion-fab-button><ion-button description="{{getCustomShare()}}" class="sharesize" shareButton="tumblr"><ion-icon slot="icon-only" name="logo-tumblr"></ion-icon></ion-button></ion-fab-button>
+    <ion-fab-button><ion-button description="{{getCustomShare()}}" class="sharesize" shareButton="sms"><ion-icon slot="icon-only" name="chatbubble-sharp"></ion-icon></ion-button></ion-fab-button>
+    <ion-fab-button><ion-button description="{{getCustomShare()}}" class="sharesize" shareButton="email"><ion-icon slot="icon-only" name="at"></ion-icon></ion-button></ion-fab-button>
+    <ion-fab-button><ion-button description="{{getCustomShare()}}" class="sharesize" shareButton="copy"><ion-icon slot="icon-only" name="link"></ion-icon></ion-button></ion-fab-button>
+  </ion-fab-list>
+</ion-fab>
+<ion-footer class="customfooter">
+  <ion-toolbar class="customfooter">
+    <span id="firma">Created by <a href="https://www.senzil.com" target="_blank">Senzil SRL</a></span>   
+  </ion-toolbar>
+</ion-footer>

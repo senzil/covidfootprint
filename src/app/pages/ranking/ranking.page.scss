@@ -1,0 +1,30 @@
+.customfooter, .customfooter .toolbar-container{
+  height: 40px;
+  max-height: 40px;
+  min-height: 40px;
+  --max-height: 40px;
+  --min-height: 40px;
+}
+
+ion-grid {
+  height: 100%;
+}
+
+ion-row {
+  height: 50%;
+}
+
+ion-col {
+  height: 100%;
+}
+
+div.scrollable {
+  overflow-y: scroll;
+  max-height: 90%;
+}
+
+ion-note {
+  font-weight: bolder;
+  font-size: large;
+}
+

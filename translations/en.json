@@ -1,0 +1,116 @@
+{
+  "PAGES": {
+    "ABOUT": {
+      "SUBTITLE": "Know your viral footprint",
+      "OBJETIVO": "COVID 19 Footprint allows you to calculate your viral footprint. The viral footprint is the \"mark\" it leaves behind by performing actions that can spread the virus. The lower the value, the better, your footprint will be smaller.",
+      "EXPLICACION": "It won't take you a minute, through a series of questions, to add or subtract points.",
+      "DESCARGO": "We are not and do not pretend to be health specialists. We only try to raise awareness by following the protocol against Covid-19. The results provided by this website are merely symbolic.",
+      "AUTORIA": "Web app created by Senzil."
+    },
+    "AGE": {
+      "MESSAGE": "ENTER THE YEAR YOU WERE BORN",
+      "CONTINUAR": "Continue"
+    },
+    "HOME": {
+      "TITLE": "Your C19 Footprint is",
+      "SUGERENCIA": "If possible try to reduce your footprint as much as possible.",
+      "FELICITACIONES": "Excellent !, your footprint is minimal!",
+      "INVITACION_MANANA": "Tomorrow you will be able to calculate your footprint again",
+      "INVITACION_HOY": "You still haven't calculated your footprint",
+      "CALCULA": "Calculate your footprint today"
+    },
+    "LOCATION": {
+      "MESSAGE": "FIND AND SELECT THE NEIGHBORHOOD WHERE YOU LIVE",
+      "CONTINUAR": "Continue"
+    },
+    "LOGIN": {
+      "MESSAGE_FACEBOOK": "Login with Facebook",
+      "MESSAGE_GOOGLE": "Login with Google",
+      "MESSAGE_TWITTER": "Login with Twitter",
+      "PRIVACIDAD": "We believe that privacy is something fundamental, which is why this site does not store personal data that allows you to know your real identity, but rather those that are minimum for identifying your user session. (login)"
+    },
+    "MAP": {
+      "RANGO": "Footprint average range filter"
+    },
+    "RANKING": {
+      "MEJORES": "NEIGHBORHOODS WITH LOWER FOOTPRINT",
+      "PEORES": "NEIGHBORHOODS WITH HIGHER FOOTPRINT"
+    },
+    "SOURCES": {
+      "HASHTAG": "#We areResponsible",
+      "SUBTITLE": "These are some official sources where you can find information on COVID-19.",
+      "WHO": "https://www.who.int",
+      "ADVICE": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+      "MYTH-BUSTERS": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+      "MASCARILLA": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks",
+      "Q&A": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses",
+      "Q&A2": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-on-infection-prevention-and-control-for-health-care-workers-caring-for-patients-with-suspected-or-confirmed-2019-ncov"
+    },
+    "WIZARD": {
+      "FIEBRE": "You have a fever?",
+      "TOS": "Do you have a dry cough?",
+      "RESPIRACION": "Do you have any respiratory difficulties?",
+      "DIAGNOSTICO": "Were you diagnosed with Covid-19?",
+      "CONTACTO": "Were you in contact with someone who has been in a risk zone or with symptoms?",
+      "LAVADO": "Do you wash your hands frequently?",
+      "TOSER": "If you coughed or sneezed, did you do it on the crease of your elbow or on a disposable tissue?",
+      "CARA": "Do you often put your hands to your face?",
+      "VENTILAR": "Did you ventilate your house?",
+      "TELEFONO": "Did you disinfect your mobile phone and keyboard?",
+      "INTERACCION": "Did you interact with people outside of those who live with you?",
+      "COMPRAS": "Do you organize your purchases to go out once every several days?",
+      "MERCADERIAS": "Do you disinfect the merchandise containers that enter your home?",
+      "LLAVES": "Do you disinfect your keys and latches when you return from abroad?",
+      "ZAPATILLAS": "Do you clean your shoes when you enter from the outside, for example on a cloth soaked with disinfectant?",
+      "ANIMALES": "If you have animals, do you prevent them from leaning on outdoor surfaces and clean their paws when entering?",
+      "ANCIANOS": "If you help a person in the risk group, do you try to avoid all physical contact?",
+      "YES": "Yes",
+      "NO": "No"
+    }
+  },
+  "COMPONENTS": {
+    "APPUPDATE": {
+      "HEADER": "UPDATE AVAILABLE",
+      "MESSAGE": "A new version of the App will be loaded"
+    },
+    "LOGIN": {
+      "ERROR": "There was an error with the authentication, please try again later.",
+      "VERIFYING": "Verifying session ...",
+      "CLOSING": "Closing session..."
+    },
+    "MENU": {
+      "SELECTLANGUAGE": "Select language",
+      "HOME": "My footprint",
+      "MAP": "Map",
+      "ABOUT": "Above the App",
+      "RANKING": "Ranking",
+      "OPENDATA": "Open Data",
+      "SOURCES": "Official information",
+      "LOGOUT": "Sign off"
+    },
+    "SHARE": {
+      "FOOTPRINT": "My viral footprint today is"
+    },
+    "TOUR": {
+      "PREVIUS": "Previous",
+      "NEXT": "Next",
+      "DONE": "Finalize",
+      "TEXT_INIT1": "Here you can select your preferred language",
+      "TITLE_INIT2": "About the application",
+      "TEXT_INIT2": "We invite you to calculate your viral footprint",
+      "TITLE_INIT3": "Privacy",
+      "TEXT_INIT3": "Although we do not store data that can identify you, you must agree to our privacy policy",
+      "TITLE_INIT4": "Entry",
+      "TEXT_INIT4": "Login with the account you prefer to identify yourself"
+    }
+  },
+  "COMMONS": {
+    "CARGANDO": "Loading...",
+    "ALERTA": "Alert",
+    "ERROR": "Error",
+    "ACEPTAR": "To accept",
+    "CANCELAR": "Cancel",
+    "YES": "Yes",
+    "NO": "No"
+  }
+}

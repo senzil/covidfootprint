@@ -1,0 +1,161 @@
+{
+    "questions": 
+    [
+        {
+            "id": "SINTOMAS",
+            "image": "",
+            "question": "FIEBRE",
+            "answers": [{"answer": {"text": "YES","value": 1,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 0,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "SINTOMAS2",
+            "image": "",
+            "question": "TOS",
+            "answers": [{"answer": {"text": "YES","value": 1,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 0,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "SINTOMAS3",
+            "image": "",
+            "question": "RESPIRACION",
+            "answers": [{"answer": {"text": "YES","value": 1,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 0,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "SINTOMAS4",
+            "image": "",
+            "question": "DIARREA",
+            "answers": [{"answer": {"text": "YES","value": 1,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 0,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "SINTOMAS5",
+            "image": "",
+            "question": "OLFATO",
+            "answers": [{"answer": {"text": "YES","value": 1,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 0,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "DIAGNOSTICO",
+            "image": "",
+            "question": "DIAGNOSTICO",
+            "answers": [{"answer": {"text": "YES","value": 1,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 0,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "DIAGNOSTICO2",
+            "image": "",
+            "question": "CONTACTO",
+            "answers": [{"answer": {"text": "YES","value": 1,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 0,"icon":"close","color":"#ff3838"}}]
+        }
+        ,
+        {
+            "id": "MANOS",
+            "image": "",
+            "question": "LAVADO",
+            "answers": [{"answer": {"text": "YES","value": 0,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 1,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "TOSER",
+            "image": "",
+            "question": "TOSER",
+            "answers": [{"answer": {"text": "YES","value": 0,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 1,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "CARA",
+            "image": "",
+            "question": "CARA",
+            "answers": [{"answer": {"text": "YES","value": 1,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 0,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "VENTILAR",
+            "image": "",
+            "question": "VENTILAR",
+            "answers": [{"answer": {"text": "YES","value": 0,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 1,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "TELEFONO",
+            "image": "",
+            "question": "TELEFONO",
+            "answers": [{"answer": {"text": "YES","value": 0,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 1,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "PERSONAS",
+            "image": "",
+            "question": "INTERACCION",
+            "answers": [{"answer": {"text": "YES","value": 1,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 0,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "COMPRAS",
+            "image": "",
+            "question": "COMPRAS",
+            "answers": [{"answer": {"text": "YES","value": 0,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 1,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "MERCADERIAS",
+            "image": "",
+            "question": "MERCADERIAS",
+            "answers": [{"answer": {"text": "YES","value": 0,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 1,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "LLAVES",
+            "image": "",
+            "question": "LLAVES",
+            "answers": [{"answer": {"text": "YES","value": 0,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 1,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "ZAPATILLAS",
+            "image": "",
+            "question": "ZAPATILLAS",
+            "answers": [{"answer": {"text": "YES","value": 0,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 1,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "ANIMALES",
+            "image": "",
+            "question": "ANIMALES",
+            "answers": [{"answer": {"text": "YES","value": 0,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 1,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "ANCIANOS",
+            "image": "",
+            "question": "ANCIANOS",
+            "answers": [{"answer": {"text": "YES","value": 0,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 1,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "TRASLADO",
+            "image": "",
+            "question": "TRASLADO",
+            "answers": [{"answer": {"text": "YES","value": 1,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 0,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "MASCARILLA",
+            "image": "",
+            "question": "MASCARILLA",
+            "answers": [{"answer": {"text": "YES","value": 0,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 1,"icon":"close","color":"#ff3838"}}]
+        },
+        {
+            "id": "DISTANCIA",
+            "image": "",
+            "question": "DISTANCIA",
+            "answers": [{"answer": {"text": "YES","value": 0,"icon":"checkmark","color":"#3cd74d"}},
+                        {"answer": {"text": "NO","value": 1,"icon":"close","color":"#ff3838"}}]
+        }
+
+    ]
+}

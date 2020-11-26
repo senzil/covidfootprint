@@ -1,0 +1,116 @@
+{
+  "PAGES": {
+    "ABOUT": {
+      "SUBTITLE": "바이러스 발자국을 알고",
+      "OBJETIVO": "COVID 19 Footprint를 사용하면 바이러스 발자국을 계산할 수 있습니다. 바이러스 발자국은 바이러스를 확산시킬 수있는 조치를 수행하여 남겨진 \"표시\"입니다. 값이 낮을수록 발자국이 작아집니다.",
+      "EXPLICACION": "일련의 질문을 통해 포인트를 더하거나 빼는 데 1 분이 걸리지 않습니다.",
+      "DESCARGO": "우리는 건강 전문가 인 척하지도 않습니다. 우리는 Covid-19에 대한 프로토콜을 따름으로써 인지도를 높이려고 노력합니다. 이 웹 사이트에서 제공하는 결과는 단지 상징적입니다.",
+      "AUTORIA": "Senzil에서 만든 웹 앱."
+    },
+    "AGE": {
+      "MESSAGE": "태어난 해를 입력하십시오",
+      "CONTINUAR": "계속"
+    },
+    "HOME": {
+      "TITLE": "당신의 C19 발자국은",
+      "SUGERENCIA": "가능하면 발자국을 최대한 줄이십시오.",
+      "FELICITACIONES": "훌륭합니다! 발자국은 최소입니다!",
+      "INVITACION_MANANA": "내일 당신은 당신의 발자국을 다시 계산할 수있을 것입니다",
+      "INVITACION_HOY": "여전히 발자국을 계산하지 않았습니다",
+      "CALCULA": "오늘 발자국을 계산"
+    },
+    "LOCATION": {
+      "MESSAGE": "거주지가있는 곳을 찾아서 선택하십시오",
+      "CONTINUAR": "계속"
+    },
+    "LOGIN": {
+      "MESSAGE_FACEBOOK": "페이스 북으로 로그인",
+      "MESSAGE_GOOGLE": "Google로 로그인",
+      "MESSAGE_TWITTER": "트위터로 로그인",
+      "PRIVACIDAD": "우리는 프라이버시가 근본적인 것이라고 믿기 때문에이 사이트는 실제 신원을 알 수있는 개인 데이터를 저장하지 않고 사용자 세션을 식별하기위한 최소한의 데이터를 저장합니다. (로그인)"
+    },
+    "MAP": {
+      "RANGO": "발자국 평균 범위 필터"
+    },
+    "RANKING": {
+      "MEJORES": "낮은 발자국을 가진 이웃",
+      "PEORES": "더 높은 발자국을 가진 이웃"
+    },
+    "SOURCES": {
+      "HASHTAG": "# 우리는 책임이있다",
+      "SUBTITLE": "COVID-19에 대한 정보를 찾을 수있는 공식 소스입니다.",
+      "WHO": "https://www.who.int",
+      "ADVICE": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+      "MYTH-BUSTERS": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+      "MASCARILLA": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks",
+      "Q&A": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses",
+      "Q&A2": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-on-infection-prevention-and-control-for-health-care-workers-caring-for-patients-with-suspected-or-confirmed-2019-ncov"
+    },
+    "WIZARD": {
+      "FIEBRE": "열이 있습니까?",
+      "TOS": "마른 기침이 있습니까?",
+      "RESPIRACION": "호흡 곤란이 있습니까?",
+      "DIAGNOSTICO": "Covid-19 진단을 받았습니까?",
+      "CONTACTO": "위험 구역에 있거나 증상이있는 사람과 접촉 했습니까?",
+      "LAVADO": "손을 자주 씻습니까?",
+      "TOSER": "기침이나 재채기를 할 경우 팔꿈치 주름이나 일회용 티슈에서 했습니까?",
+      "CARA": "종종 손을 얼굴에 대고 있습니까?",
+      "VENTILAR": "집을 환기 시키셨습니까?",
+      "TELEFONO": "휴대폰과 키보드를 소독 했습니까?",
+      "INTERACCION": "나와 함께 사는 사람들 이외의 사람들과 교류 했습니까?",
+      "COMPRAS": "며칠에 한 번씩 외출하기 위해 구매를 구성합니까?",
+      "MERCADERIAS": "집에 들어가는 상품 컨테이너를 소독합니까?",
+      "LLAVES": "해외에서 귀국 할 때 키와 걸쇠를 소독합니까?",
+      "ZAPATILLAS": "소독제를 적신 천과 같이 외부에서 들어갈 때 신발을 청소합니까?",
+      "ANIMALES": "동물이있는 경우 동물이 실외 표면에 기대어 들어 가지 못하고 발을 닦지 않습니까?",
+      "ANCIANOS": "위험 그룹의 사람을 돕는 경우 모든 신체적 접촉을 피하려고 노력합니까?",
+      "YES": "응",
+      "NO": "아니"
+    }
+  },
+  "COMPONENTS": {
+    "APPUPDATE": {
+      "HEADER": "사용 가능한 업데이트",
+      "MESSAGE": "새로운 버전의 앱이로드됩니다"
+    },
+    "LOGIN": {
+      "ERROR": "인증에 오류가 발생했습니다. 나중에 다시 시도하십시오.",
+      "VERIFYING": "세션 확인 중 ...",
+      "CLOSING": "로그 아웃 ..."
+    },
+    "MENU": {
+      "SELECTLANGUAGE": "언어를 선택하십시오",
+      "HOME": "내 발자국",
+      "MAP": "지도",
+      "ABOUT": "앱 위",
+      "RANKING": "순위",
+      "OPENDATA": "열린 데이터",
+      "SOURCES": "공식 정보",
+      "LOGOUT": "세션 종료"
+    },
+    "SHARE": {
+      "FOOTPRINT": "오늘 내 바이러스 발자국은"
+    },
+    "TOUR": {
+      "PREVIUS": "이전",
+      "NEXT": "다음",
+      "DONE": "마침",
+      "TEXT_INIT1": "여기에서 원하는 언어를 선택할 수 있습니다",
+      "TITLE_INIT2": "신청에 대해",
+      "TEXT_INIT2": "바이러스 발자국을 계산하도록 초대합니다",
+      "TITLE_INIT3": "프라이버시",
+      "TEXT_INIT3": "당사는 귀하를 식별 할 수있는 데이터를 저장하지 않지만 귀하는 개인 정보 보호 정책에 동의해야합니다",
+      "TITLE_INIT4": "소득",
+      "TEXT_INIT4": "본인 확인을 원하는 계정으로 로그인"
+    }
+  },
+  "COMMONS": {
+    "CARGANDO": "로딩 중 ...",
+    "ALERTA": "경보",
+    "ERROR": "오류",
+    "ACEPTAR": "수락",
+    "CANCELAR": "취소",
+    "YES": "응",
+    "NO": "아니"
+  }
+}

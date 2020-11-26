@@ -1,0 +1,23 @@
+<ion-content class="">
+  <ion-grid class="background">
+    <ion-row>
+      <ion-col>
+        <ion-card mode="ios" >
+          <ion-card-header>
+            <ion-card-subtitle class="text-center subtitulo">{{ 'PAGES.AGE.MESSAGE' | translate }}</ion-card-subtitle>
+          </ion-card-header>
+          
+          <ion-card-content class="no-pdd-top">
+            <ion-input type="number" [(ngModel)]="birthyear.input"></ion-input>
+            <div class="mrg-top-20"></div>
+            <ion-button mode="ios" expand="block" (click)="continue()">
+              <ion-icon name="arrow-dropright"></ion-icon>
+              &nbsp;{{ 'PAGES.AGE.CONTINUAR' | translate }}
+            </ion-button>
+            
+          </ion-card-content>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>

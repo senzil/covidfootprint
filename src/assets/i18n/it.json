@@ -1,0 +1,125 @@
+{
+  "PAGES": {
+    "ABOUT": {
+      "SUBTITLE": "Conosci la tua impronta virale",
+      "OBJETIVO": "COVID 19 Footprint ti consente di calcolare la tua impronta virale. L'impronta virale è il \"segno\" che lascia dietro eseguendo azioni che possono diffondere il virus. Più basso è il valore, migliore sarà il tuo footprint.",
+      "EXPLICACION": "Non ci vorrà un minuto, attraverso una serie di domande, per aggiungere o sottrarre punti.",
+      "DESCARGO": "Non siamo e non pretendiamo di essere specialisti della salute. Cerchiamo solo di aumentare la consapevolezza seguendo il protocollo contro Covid-19. I risultati forniti da questo sito Web sono puramente simbolici.",
+      "AUTORIA": "App Web creata da Senzil."
+    },
+    "AGE": {
+      "MESSAGE": "Entra nell'anno in cui sei nato",
+      "CONTINUAR": "continuare"
+    },
+    "HOME": {
+      "TITLE": "La tua impronta C19 è",
+      "SUGERENCIA": "Se possibile, cerca di ridurre il tuo footprint il più possibile.",
+      "FELICITACIONES": "Eccellente! Il tuo footprint è minimo!",
+      "INVITACION_MANANA": "Domani sarai in grado di calcolare di nuovo la tua impronta",
+      "INVITACION_HOY": "Non hai ancora calcolato il tuo footprint",
+      "CALCULA": "Calcola la tua impronta oggi"
+    },
+    "LOCATION": {
+      "MESSAGE": "TROVA E SELEZIONA IL VICINATO DOVE Vivi",
+      "CONTINUAR": "continuare"
+    },
+    "LOGIN": {
+      "MESSAGE_FACEBOOK": "Accedi con Facebook",
+      "MESSAGE_GOOGLE": "Accedi con Google",
+      "MESSAGE_TWITTER": "Accedi con Twitter",
+      "PRIVACIDAD": "Riteniamo che la privacy sia qualcosa di fondamentale, motivo per cui questo sito non memorizza dati personali che ti consentono di conoscere la tua vera identità, ma piuttosto quelli che sono minimi per identificare la tua sessione utente. (Login)"
+    },
+    "MAP": {
+      "RANGO": "Filtro intervallo medio impronta"
+    },
+    "RANKING": {
+      "MEJORES": "QUARTIERI CON BASSA STAMPA",
+      "PEORES": "VICINI CON MAGGIORE STAMPA A PIEDI"
+    },
+    "SOURCES": {
+      "HASHTAG": "#Siamo responsabili",
+      "SUBTITLE": "Queste sono alcune fonti ufficiali in cui è possibile trovare informazioni su COVID-19.",
+      "WHO": "https://www.who.int",
+      "ADVICE": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+      "MYTH-BUSTERS": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+      "MASCARILLA": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks",
+      "Q&A": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses",
+      "Q&A2": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-on-infection-prevention-and-control-for-health-care-workers-caring-for-patients-with-suspected-or-confirmed-2019-ncov",
+      "MAYO": "https://www.mayoclinic.org/es-es/diseases-conditions/coronavirus/symptoms-causes/syc-20479963",
+      "MAYO2": "https://www.mayoclinic.org/es-es/diseases-conditions/coronavirus/diagnosis-treatment/drc-20479976"
+    },
+    "WIZARD": {
+      "FIEBRE": "Hai la febbre?",
+      "TOS": "Hai una tosse secca?",
+      "RESPIRACION": "Hai qualche difficoltà respiratoria?",
+      "DIAGNOSTICO": "Ti è stato diagnosticato Covid-19?",
+      "CONTACTO": "Eri in contatto con qualcuno che si trovava in una zona a rischio o con sintomi?",
+      "LAVADO": "Ti lavi spesso le mani?",
+      "TOSER": "Se hai tossito o starnutito, l'hai fatto sulla piega del gomito o su un tessuto usa e getta?",
+      "CARA": "Ti metti spesso le mani in faccia?",
+      "VENTILAR": "Hai ventilato la tua casa?",
+      "TELEFONO": "Hai disinfettato il cellulare e la tastiera?",
+      "INTERACCION": "Hai interagito con persone al di fuori di coloro che vivono con te?",
+      "COMPRAS": "Organizzi i tuoi acquisti per uscire una volta ogni diversi giorni?",
+      "MERCADERIAS": "Disinfetti i contenitori della merce che entrano nella tua casa?",
+      "LLAVES": "Disinfetti chiavi e chiavistelli al tuo ritorno dall'estero?",
+      "ZAPATILLAS": "Pulisci le scarpe quando entri dall'esterno, ad esempio su un panno imbevuto di disinfettante?",
+      "ANIMALES": "Se hai animali, impedisci loro di appoggiarsi alle superfici esterne e di pulire le zampe quando entri?",
+      "ANCIANOS": "Se aiuti una persona nel gruppo a rischio, cerchi di evitare qualsiasi contatto fisico?",
+      "TRASLADO": "Se sei uscito, sei andato in un altro quartiere?",
+      "DIARREA": "Hai la diarrea?",
+      "OLFATO": "Hai notato perdita dell'olfatto?",
+      "MASCARILLA": "Indossi una maschera, una mentoniera o un copricapo, specialmente se interagisci con altre persone o hai dei sintomi?",
+      "DISTANCIA": "Tieni una distanza di 2 metri / 6 piedi con altre persone quando esci?",
+      "YES": "sì",
+      "NO": "No"
+    }
+  },
+  "COMPONENTS": {
+    "APPUPDATE": {
+      "HEADER": "AGGIORNAMENTO DISPONIBILE",
+      "MESSAGE": "Verrà caricata una nuova versione dell'app"
+    },
+    "LOGIN": {
+      "ERROR": "Si è verificato un errore con l'autenticazione, riprova più tardi.",
+      "VERIFYING": "Verifica sessione ...",
+      "CLOSING": "Disconnessione ..."
+    },
+    "MENU": {
+      "DARKMODE": "Attiva / disattiva il tema scuro",
+      "SELECTLANGUAGE": "Seleziona la lingua",
+      "HOME": "La mia impronta",
+      "MAP": "mappa",
+      "ABOUT": "Sopre la App",
+      "RANKING": "classifica",
+      "OPENDATA": "Open Data",
+      "SOURCES": "Informazioni ufficiali",
+      "LOGIN": "Accesso",
+      "LOGOUT": "Chiudi sessione"
+    },
+    "SHARE": {
+      "FOOTPRINT": "La mia impronta virale oggi è"
+    },
+    "TOUR": {
+      "PREVIUS": "precedente",
+      "NEXT": "seguente",
+      "DONE": "Finalizza",
+      "TEXT_INIT1": "Qui puoi selezionare la tua lingua preferita",
+      "TITLE_INIT2": "Informazioni sull'applicazione",
+      "TEXT_INIT2": "Ti invitiamo a calcolare la tua impronta virale",
+      "TITLE_INIT3": "vita privata",
+      "TEXT_INIT3": "Sebbene non memorizziamo dati che possono identificarti, devi accettare la nostra politica sulla privacy",
+      "TITLE_INIT4": "ingresso",
+      "TEXT_INIT4": "Accedi con l'account che preferisci identificarti"
+    }
+  },
+  "COMMONS": {
+    "CARGANDO": "Caricamento in corso ...",
+    "ALERTA": "allarme",
+    "ERROR": "Errore",
+    "ACEPTAR": "accettare",
+    "CANCELAR": "annullare",
+    "YES": "sì",
+    "NO": "No"
+  }
+}

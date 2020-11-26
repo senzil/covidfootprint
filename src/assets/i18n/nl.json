@@ -1,0 +1,125 @@
+{
+  "PAGES": {
+    "ABOUT": {
+      "SUBTITLE": "Ken uw virale voetafdruk",
+      "OBJETIVO": "Met COVID 19 Footprint kunt u uw virale voetafdruk berekenen. De virale voetafdruk is het 'merkteken' dat het achterlaat door acties uit te voeren die het virus kunnen verspreiden. Hoe lager de waarde, hoe beter, uw voetafdruk zal kleiner zijn.",
+      "EXPLICACION": "Het kost je geen minuut om via een reeks vragen punten toe te voegen of af te trekken.",
+      "DESCARGO": "We zijn en doen niet alsof we gezondheidsspecialisten zijn. We proberen alleen het bewustzijn te vergroten door het protocol tegen Covid-19 te volgen. De resultaten op deze website zijn louter symbolisch.",
+      "AUTORIA": "Webapp gemaakt door Senzil."
+    },
+    "AGE": {
+      "MESSAGE": "GA HET JAAR IN DAT JE GEBOREN WAS",
+      "CONTINUAR": "Ga verder"
+    },
+    "HOME": {
+      "TITLE": "Uw C19-voetafdruk is",
+      "SUGERENCIA": "Probeer indien mogelijk uw voetafdruk zoveel mogelijk te verkleinen.",
+      "FELICITACIONES": "Uitstekend!, Uw voetafdruk is minimaal!",
+      "INVITACION_MANANA": "Morgen kunt u uw voetafdruk opnieuw berekenen",
+      "INVITACION_HOY": "U heeft uw voetafdruk nog steeds niet berekend",
+      "CALCULA": "Bereken vandaag uw voetafdruk"
+    },
+    "LOCATION": {
+      "MESSAGE": "VIND EN KIES DE BUURT WAAR JE LEEFT",
+      "CONTINUAR": "Ga verder"
+    },
+    "LOGIN": {
+      "MESSAGE_FACEBOOK": "Log in met Facebook",
+      "MESSAGE_GOOGLE": "Log in met Google",
+      "MESSAGE_TWITTER": "Log in met Twitter",
+      "PRIVACIDAD": "Wij zijn van mening dat privacy iets fundamenteels is, daarom slaat deze site geen persoonlijke gegevens op waarmee u uw echte identiteit kunt kennen, maar eerder die welke minimaal zijn om uw gebruikerssessie te identificeren. (inloggen)"
+    },
+    "MAP": {
+      "RANGO": "Filter voor gemiddeld bereik van voetafdruk"
+    },
+    "RANKING": {
+      "MEJORES": "OMGEVING MET LAGERE VOETAFDRUK",
+      "PEORES": "OMGEVING MET HOGERE VOETAFDRUK"
+    },
+    "SOURCES": {
+      "HASHTAG": "#We zijn verantwoordelijk",
+      "SUBTITLE": "Dit zijn enkele officiële bronnen waar u informatie kunt vinden over COVID-19.",
+      "WHO": "https://www.who.int",
+      "ADVICE": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+      "MYTH-BUSTERS": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+      "MASCARILLA": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks",
+      "Q&A": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses",
+      "Q&A2": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-on-infection-prevention-and-control-for-health-care-workers-caring-for-patients-with-suspected-or-confirmed-2019-ncov",
+      "MAYO": "https://www.mayoclinic.org/es-es/diseases-conditions/coronavirus/symptoms-causes/syc-20479963",
+      "MAYO2": "https://www.mayoclinic.org/es-es/diseases-conditions/coronavirus/diagnosis-treatment/drc-20479976"
+    },
+    "WIZARD": {
+      "FIEBRE": "Heeft u koorts?",
+      "TOS": "Heeft u een droge hoest?",
+      "RESPIRACION": "Heeft u ademhalingsmoeilijkheden?",
+      "DIAGNOSTICO": "Heeft u de diagnose Covid-19 gekregen?",
+      "CONTACTO": "Had u contact met iemand die zich in een risicozone bevond of met symptomen?",
+      "LAVADO": "Was je regelmatig je handen?",
+      "TOSER": "Als je hoestte of niesde, deed je dat dan op de vouw van je elleboog of op een wegwerpdoekje?",
+      "CARA": "Leg je vaak je handen op je gezicht?",
+      "VENTILAR": "Heeft u uw huis verlucht?",
+      "TELEFONO": "Heeft u uw mobiele telefoon en toetsenbord gedesinfecteerd?",
+      "INTERACCION": "Heb je contact gehad met mensen buiten degenen die bij jou wonen?",
+      "COMPRAS": "Organiseer je je aankopen om eens in de paar dagen uit te gaan?",
+      "MERCADERIAS": "Ontsmet u de goederencontainers die uw huis binnenkomen?",
+      "LLAVES": "Ontsmet u uw sleutels en grendels wanneer u terugkeert uit het buitenland?",
+      "ZAPATILLAS": "Reinig je je schoenen als je van buiten naar binnen gaat, bijvoorbeeld op een doek gedrenkt in ontsmettingsmiddel?",
+      "ANIMALES": "Als je dieren hebt, voorkom je dat ze op buitenoppervlakken leunen en hun poten schoonmaken als ze binnenkomen?",
+      "ANCIANOS": "Als je een persoon in de risicogroep helpt, probeer je dan al het fysieke contact te vermijden?",
+      "TRASLADO": "Als je uitgaat, ben je dan naar een andere buurt geweest?",
+      "DIARREA": "Je hebt diarree?",
+      "OLFATO": "Heeft u geurverlies opgemerkt?",
+      "MASCARILLA": "Draag je een masker, kinbescherming of mondbedekking, vooral als je met andere mensen omgaat of symptomen hebt?",
+      "DISTANCIA": "Houdt u een afstand van 2 meter / 6 voet bij andere mensen wanneer u uitgaat?",
+      "YES": "Ja",
+      "NO": "Nee"
+    }
+  },
+  "COMPONENTS": {
+    "APPUPDATE": {
+      "HEADER": "UPDATE BESCHIKBAAR",
+      "MESSAGE": "Er wordt een nieuwe versie van de app geladen"
+    },
+    "LOGIN": {
+      "ERROR": "Er is een fout opgetreden bij de verificatie. Probeer het later opnieuw.",
+      "VERIFYING": "Sessie verifiëren ...",
+      "CLOSING": "Uitloggen ..."
+    },
+    "MENU": {
+      "DARKMODE": "Schakel donker thema in",
+      "SELECTLANGUAGE": "Selecteer taal",
+      "HOME": "Mijn voetafdruk",
+      "MAP": "Kaart",
+      "ABOUT": "Boven de app",
+      "RANKING": "Rangschikking",
+      "OPENDATA": "Open data",
+      "SOURCES": "Officiële informatie",
+      "LOGIN": "Log in",
+      "LOGOUT": "Sessie sluiten"
+    },
+    "SHARE": {
+      "FOOTPRINT": "Mijn virale voetafdruk vandaag is"
+    },
+    "TOUR": {
+      "PREVIUS": "Vorige",
+      "NEXT": "Volgende",
+      "DONE": "Voltooien",
+      "TEXT_INIT1": "Hier kunt u uw voorkeurstaal selecteren",
+      "TITLE_INIT2": "Over de applicatie",
+      "TEXT_INIT2": "We nodigen u uit om uw virale voetafdruk te berekenen",
+      "TITLE_INIT3": "Privacy",
+      "TEXT_INIT3": "Hoewel we geen gegevens opslaan die u kunnen identificeren, moet u akkoord gaan met ons privacybeleid",
+      "TITLE_INIT4": "Inkomen",
+      "TEXT_INIT4": "Log in met het account dat u het liefst identificeert"
+    }
+  },
+  "COMMONS": {
+    "CARGANDO": "Bezig met laden ...",
+    "ALERTA": "Alert",
+    "ERROR": "Fout",
+    "ACEPTAR": "Accepteren",
+    "CANCELAR": "Annuleren",
+    "YES": "Ja",
+    "NO": "Nee"
+  }
+}

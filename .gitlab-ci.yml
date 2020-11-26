@@ -1,0 +1,25 @@
+image: senzil/node-with-firebase-tools-for-deploy
+
+stages:
+  - deploy
+
+cache:                  
+  paths:                
+    - node_modules/     
+  key: "$CI_BUILD_REPO" 
+
+deploy-prod:
+  stage: deploy
+  only:
+    - master
+  script:
+    - npm i -g @ionic/cli
+    - npm i
+    - ionic build --prod
+    - echo $FIREBASE_JSON_FUNTIONS | base64 -d > cloud-functions/firebase.json
+    - echo $C19FOOTPRINT_ADMIN_SDK_ACCOUNT | base64 -d > cloud-functions/functions/c19footprint-admin-sdk-account.json
+    - firebase use c19footprint --token $FIREBASE_TOKEN
+    - firebase deploy --only hosting -m "Hosting - Pipe $CI_PIPELINE_ID Build $CI_BUILD_ID" --token $FIREBASE_TOKEN
+    - cd ./cloud-functions/
+    - firebase use c19footprint --token $FIREBASE_TOKEN
+    - firebase deploy --only functions -m "Functions - Pipe $CI_PIPELINE_ID Build $CI_BUILD_ID" --token $FIREBASE_TOKEN

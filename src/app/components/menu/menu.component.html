@@ -1,0 +1,115 @@
+<ion-menu side="start" menuId="main" contentId="router">
+  <ion-header>
+    <ion-toolbar color="primary">
+      <ion-title>Start Menu</ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <ion-content>
+    <ion-list>
+      <ion-item slot="start">
+          <ion-label>
+            <ion-icon name="moon"></ion-icon>
+            {{'COMPONENTS.MENU.DARKMODE' | translate}}
+          </ion-label>
+          <ion-toggle id="themeToggle" [(ngModel)]="darkmode" slot="end" (ionChange)="toggleDarkTheme($event.target.checked)"></ion-toggle>
+      </ion-item>
+      <ion-item>
+        <ion-label>{{'COMPONENTS.MENU.SELECTLANGUAGE' | translate}}</ion-label>
+        <ion-select value="{{currentLanguage()}}" okText="{{'COMMONS.ACEPTAR' | translate}}" cancelText="{{'COMMONS.CANCELAR' | translate}}" (ionChange)="changeLanguage($event)" >
+          <ion-select-option value="ar">عربي</ion-select-option>
+          <ion-select-option value="de">Deutsch</ion-select-option>
+          <ion-select-option value="en">English</ion-select-option>
+          <ion-select-option value="es">Español</ion-select-option>
+          <ion-select-option value="fa">پارسی</ion-select-option>
+          <ion-select-option value="fr">Français</ion-select-option>
+          <ion-select-option value="hi">हिन्दी</ion-select-option>
+          <ion-select-option value="it">Italiano</ion-select-option>
+          <ion-select-option value="ko">한국어</ion-select-option>
+          <ion-select-option value="nl">Nederlands</ion-select-option>
+          <ion-select-option value="no">norsk</ion-select-option>
+          <ion-select-option value="pt">português</ion-select-option>
+          <ion-select-option value="ru">русский</ion-select-option>
+          <ion-select-option value="zh">简体中文</ion-select-option>
+        </ion-select>
+      </ion-item>
+      <ion-item-divider color="light">
+        <p>Help us with the translation to your language: <a href="mailto://c19footprint@senzil.com">c19footprint@senzil.com</a></p>
+      </ion-item-divider>
+      <ion-item class="clickeable" *ngIf="loginService.isUserLogged()" (click)="goHome()">
+        <ion-button>
+          <ion-icon slot="icon-only" name="person"></ion-icon>
+        </ion-button>
+        <ion-label >{{'COMPONENTS.MENU.HOME' | translate}}</ion-label>
+      </ion-item>
+      <ion-item class="clickeable" *ngIf="loginService.isUserLogged()" (click)="goMap()">
+        <ion-button>
+          <ion-icon slot="icon-only" name="map"></ion-icon>
+        </ion-button>
+        <ion-label>{{'COMPONENTS.MENU.MAP' | translate}}</ion-label>
+      </ion-item>
+      <ion-item class="clickeable" *ngIf="loginService.isUserLogged()" (click)="goRanking()">
+        <ion-button>
+          <ion-icon slot="icon-only" name="podium"></ion-icon>
+        </ion-button>
+        <ion-label>{{'COMPONENTS.MENU.RANKING' | translate}}</ion-label>
+      </ion-item>
+      <ion-item class="clickeable" *ngIf="loginService.isUserLogged()" (click)="goData()">
+        <ion-button>
+          <ion-icon slot="icon-only" name="cloud-download"></ion-icon>
+        </ion-button>
+        <ion-label>{{'COMPONENTS.MENU.OPENDATA' | translate}}</ion-label>
+      </ion-item>
+      <ion-item class="clickeable" (click)="goSources()">
+        <ion-button>
+          <ion-icon slot="icon-only" name="information-circle"></ion-icon>
+        </ion-button>
+        <ion-label>{{'COMPONENTS.MENU.SOURCES' | translate}}</ion-label>
+      </ion-item>
+      <ion-item class="clickeable" (click)="goAbout()">
+        <ion-button>
+          <ion-icon slot="icon-only" name="help"></ion-icon>
+        </ion-button>
+        <ion-label>{{'COMPONENTS.MENU.ABOUT' | translate}}</ion-label>
+      </ion-item>
+      <ion-item-divider>
+      </ion-item-divider>
+      <ion-item class="clickeable" *ngIf="!loginService.isUserLogged()" (click)="goLogin()" color="success">
+        <ion-button>
+          <ion-icon slot="icon-only" name="log-in"></ion-icon>
+      </ion-button>
+      <ion-label>{{'COMPONENTS.MENU.LOGIN' | translate}}</ion-label>
+      </ion-item>
+      <ion-item class="clickeable" *ngIf="loginService.isUserLogged()" (click)="loginService.logout()" color="danger">
+        <ion-button>
+          <ion-icon slot="icon-only" name="exit"></ion-icon>
+      </ion-button>
+      <ion-label>{{'COMPONENTS.MENU.LOGOUT' | translate}}</ion-label>
+      </ion-item>
+    </ion-list>
+    <ion-label>{{currentVersion()}}</ion-label>
+  </ion-content>
+</ion-menu>
+
+<!-- <ion-fab id="langfab" vertical="top" horizontal="end" slot="fixed" joyrideStep="init1" title="{{'COMPONENTS.MENU.SELECTLANGUAGE' | translate}}" text="{{'COMPONENTS.TOUR.TEXT_INIT1' | translate}}"> -->
+<ion-fab id="langfab" vertical="top" horizontal="end" slot="fixed">
+  <ion-fab-button size="small" activated="{{abrirselectorlenguaje}}"><ion-icon name="language-outline"></ion-icon></ion-fab-button>
+  <ion-fab-list activated="{{abrirselectorlenguaje}}" side="start" id="langfabbutton" backgroung="principal">
+    <ion-select value="{{currentLanguage()}}" okText="{{'COMMONS.ACEPTAR' | translate}}" cancelText="{{'COMMONS.CANCELAR' | translate}}" (ionChange)="changeLanguage($event)">
+      <ion-select-option value="ar">عربي</ion-select-option>
+      <ion-select-option value="de">Deutsch</ion-select-option>
+      <ion-select-option value="en">English</ion-select-option>
+      <ion-select-option value="es">Español</ion-select-option>
+      <ion-select-option value="fa">پارسی</ion-select-option>
+      <ion-select-option value="fr">Français</ion-select-option>
+      <ion-select-option value="hi">हिन्दी</ion-select-option>
+      <ion-select-option value="it">Italiano</ion-select-option>
+      <ion-select-option value="ko">한국어</ion-select-option>
+      <ion-select-option value="nl">Nederlands</ion-select-option>
+      <ion-select-option value="no">norsk</ion-select-option>
+      <ion-select-option value="pt">português</ion-select-option>
+      <ion-select-option value="ru">русский</ion-select-option>
+      <ion-select-option value="zh">简体中文</ion-select-option>
+    </ion-select>
+    <ion-label>{{'COMPONENTS.MENU.SELECTLANGUAGE' | translate}}</ion-label>
+  </ion-fab-list>
+</ion-fab>

@@ -1,0 +1,125 @@
+{
+  "PAGES": {
+    "ABOUT": {
+      "SUBTITLE": "了解您的病毒足迹",
+      "OBJETIVO": "COVID 19足迹可让您计算病毒足迹。病毒足迹是通过执行可能传播病毒的动作而留下的“标记”。值越低越好，您的足迹将更小。",
+      "EXPLICACION": "通过一系列问题，您无需花费一分钟即可添加或减去点。",
+      "DESCARGO": "我们不是也不假装自己是健康专家。我们仅尝试遵循针对Covid-19的协议来提高意识。本网站提供的结果仅是象征性的。",
+      "AUTORIA": "Senzil创建的Web应用程序。"
+    },
+    "AGE": {
+      "MESSAGE": "输入您出生的年份",
+      "CONTINUAR": "继续"
+    },
+    "HOME": {
+      "TITLE": "您的C19足迹是",
+      "SUGERENCIA": "如果可能，请尽量减少您的足迹。",
+      "FELICITACIONES": "太好了！您的足迹很小！",
+      "INVITACION_MANANA": "明天您将可以再次计算您的足迹",
+      "INVITACION_HOY": "您还没有计算出足迹",
+      "CALCULA": "计算今天的足迹"
+    },
+    "LOCATION": {
+      "MESSAGE": "查找并选择您住的邻居",
+      "CONTINUAR": "继续"
+    },
+    "LOGIN": {
+      "MESSAGE_FACEBOOK": "用Facebook登录",
+      "MESSAGE_GOOGLE": "用谷歌登录",
+      "MESSAGE_TWITTER": "用Twitter登录",
+      "PRIVACIDAD": "我们认为隐私是至关重要的，这就是为什么该网站不存储允许您知道真实身份的个人数据，而是存储用于识别用户会话的最低限度个人数据的原因。 （登录）"
+    },
+    "MAP": {
+      "RANGO": "足迹平均范围过滤器"
+    },
+    "RANKING": {
+      "MEJORES": "脚印近邻",
+      "PEORES": "脚印更高的邻居"
+    },
+    "SOURCES": {
+      "HASHTAG": "＃我们负责",
+      "SUBTITLE": "这些是一些官方资源，您可以在其中找到有关COVID-19的信息。",
+      "WHO": "https://www.who.int",
+      "ADVICE": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public",
+      "MYTH-BUSTERS": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+      "MASCARILLA": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks",
+      "Q&A": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses",
+      "Q&A2": "https://www.who.int/es/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-on-infection-prevention-and-control-for-health-care-workers-caring-for-patients-with-suspected-or-confirmed-2019-ncov",
+      "MAYO": "https://www.mayoclinic.org/es-es/diseases-conditions/coronavirus/symptoms-causes/syc-20479963",
+      "MAYO2": "https://www.mayoclinic.org/es-es/diseases-conditions/coronavirus/diagnosis-treatment/drc-20479976"
+    },
+    "WIZARD": {
+      "FIEBRE": "你发烧吗？",
+      "TOS": "你有干咳吗？",
+      "RESPIRACION": "您有呼吸困难吗？",
+      "DIAGNOSTICO": "您是否被诊断出患有Covid-19？",
+      "CONTACTO": "您是否与处于危险区域或有症状的人接触？",
+      "LAVADO": "你经常洗手吗？",
+      "TOSER": "如果您咳嗽或打喷嚏，是在肘部折皱还是在一次性纸巾上做的？",
+      "CARA": "你经常把手放在脸上吗？",
+      "VENTILAR": "你给房子通风了吗？",
+      "TELEFONO": "您是否对手机和键盘进行了消毒？",
+      "INTERACCION": "您是否与与您同住的人之外的人互动？",
+      "COMPRAS": "您是否将购买的商品组织为每隔几天发送一次？",
+      "MERCADERIAS": "您是否对进入您家的商品容器进行消毒？",
+      "LLAVES": "从国外返回时，您是否对钥匙和闩锁进行消毒？",
+      "ZAPATILLAS": "当您从外面进入鞋子时，例如在用消毒剂浸湿的布上清洁鞋子吗？",
+      "ANIMALES": "如果您有动物，是否可以防止它们倚在室外表面上并在进入时清洁它们的爪子？",
+      "ANCIANOS": "如果您帮助风险人群中的某个人，您是否要避免一切身体接触？",
+      "TRASLADO": "如果您外出，您是否去过另一个社区？",
+      "DIARREA": "你有腹泻吗？",
+      "OLFATO": "您是否注意到气味消失了？",
+      "MASCARILLA": "您是否戴上口罩，下巴护罩或口罩，尤其是在您与他人互动或出现任何症状时？",
+      "DISTANCIA": "外出时，您是否与他人保持2米/ 6英尺的距离？",
+      "YES": "是啊",
+      "NO": "没有"
+    }
+  },
+  "COMPONENTS": {
+    "APPUPDATE": {
+      "HEADER": "可用更新",
+      "MESSAGE": "该应用的新版本将被加载"
+    },
+    "LOGIN": {
+      "ERROR": "验证错误，请稍后再试。",
+      "VERIFYING": "正在验证会话...",
+      "CLOSING": "登出..."
+    },
+    "MENU": {
+      "DARKMODE": "切换黑暗主题",
+      "SELECTLANGUAGE": "选择语言",
+      "HOME": "我的足迹",
+      "MAP": "地图",
+      "ABOUT": "在应用上方",
+      "RANKING": "排行",
+      "OPENDATA": "公开资料",
+      "SOURCES": "官方资料",
+      "LOGIN": "登录",
+      "LOGOUT": "闭会"
+    },
+    "SHARE": {
+      "FOOTPRINT": "我今天的病毒足迹是"
+    },
+    "TOUR": {
+      "PREVIUS": "上一个",
+      "NEXT": "下一个",
+      "DONE": "完成",
+      "TEXT_INIT1": "在这里您可以选择您喜欢的语言",
+      "TITLE_INIT2": "关于申请",
+      "TEXT_INIT2": "我们邀请您计算您的病毒足迹",
+      "TITLE_INIT3": "私隐权",
+      "TEXT_INIT3": "尽管我们不会存储可以识别您身份的数据，但您必须同意我们的隐私政策",
+      "TITLE_INIT4": "入息",
+      "TEXT_INIT4": "使用您希望用来识别自己身份的帐户登录"
+    }
+  },
+  "COMMONS": {
+    "CARGANDO": "载入中...",
+    "ALERTA": "警报",
+    "ERROR": "错误",
+    "ACEPTAR": "接受",
+    "CANCELAR": "取消",
+    "YES": "是啊",
+    "NO": "没有"
+  }
+}

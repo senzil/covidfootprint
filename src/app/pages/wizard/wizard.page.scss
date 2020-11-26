@@ -1,0 +1,21 @@
+ion-grid {
+    height: 100%;
+  }
+  
+  ion-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+
+  .colorGreen{
+    font-size: 1.5em !important;
+    color: green;
+  }
+
+
+  .colorRed{
+    font-size: 1.5em !important;
+    color: red;
+  }
